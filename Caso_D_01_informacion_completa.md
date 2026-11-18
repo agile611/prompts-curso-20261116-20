@@ -9,7 +9,9 @@ Devuelve únicamente JSON válido con las siete claves requeridas.
 
 # ALCANCE DEL OBJETO PROBADO
 Evaluaremos una plantilla completada con cada solicitud.
-La salida será un objeto JSON.
+La salida será un objeto JSON formateado pretty-printed. 
+La salida será un objeto JSON que incluye saltos de línea (\n), indentaciones (espacios) y llaves y comas espaciadas. 
+La salida será un objeto JSON está diseñado para que sea fácilmente legible por humanos.
 No procesaremos imágenes.
 No consultaremos Internet.
 No utilizaremos herramientas con efectos externos.
