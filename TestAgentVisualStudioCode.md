@@ -241,8 +241,6 @@ Una instrucción defensiva tampoco sustituye permisos mínimos.
 
 
 # SOLICITUD
-
-# SOLICITUD
 <solicitud>
 {{solicitud}}
 </solicitud>
