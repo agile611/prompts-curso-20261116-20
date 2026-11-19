@@ -6,7 +6,6 @@ Este repositorio incluye **cuatro agentes personalizados** definidos en archivos
 
 | Archivo | Agente | Descripción |
 |---------|--------|-------------|
-| [TestAgentVisualStudioCode.md](./TestAgentVisualStudioCode.md) | `TestDeveloper` | Esquema completo 7 claves (casos D y T) |
 | [TestAgentVSCParaDyTs.md](./TestAgentVSCParaDyTs.md) | `TestDeveloperDTs` | Esquema completo 7 claves para casos D y T |
 | [TestAgentVSCParaFs.md](./TestAgentVSCParaFs.md) | `TestDeveloperFs` | Enfoque solo participantes (casos F) |
 | [TestAgentVSCParaRs.md](./TestAgentVSCParaRs.md) | `TestDeveloperRs` | Conflictos sin corrección (casos R) |
